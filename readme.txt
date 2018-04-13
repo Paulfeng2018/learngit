@@ -6,3 +6,4 @@ Creating a new branch 'dev'
 creating a new branch is quick.
 creating a new branch is quick and simple.
 creating test for merge no ff.
+git is a free software...
